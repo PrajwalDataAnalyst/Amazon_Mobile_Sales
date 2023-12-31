@@ -1,4 +1,8 @@
 # Amazon_Mobile_Sales
+# Amazon_Mobile_Sales Project Link
+***********************************************************************************************************************************************************************************************
+https://app.powerbi.com/view?r=eyJrIjoiMTY5ZDZjZjYtMGE2Zi00N2UyLTlmNGItZmFhN2QyODE0ZGI5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true
+______________________________________________________________________________________________________________________________________________________________________________________________
 
 
 📊 **Amazon Dashboard in Power BI Overview:**
