@@ -1,5 +1,5 @@
 # Amazon_Mobile_Sales
-Certainly! Here's a brief description of an Amazon dashboard in Power BI with emojis:
+
 
 📊 **Amazon Dashboard in Power BI Overview:**
 Explore your Amazon business performance at a glance with our vibrant and insightful Power BI dashboard! Gain valuable insights into your sales, inventory, and customer engagement effortlessly.
